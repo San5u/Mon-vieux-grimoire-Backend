@@ -5,9 +5,10 @@ Mon Vieux Grimoire est une site de référencement et de notation de livres.
 ## Installer le projet
 
 1. Le projet étant en 2 parties, backend et frontend, il faut cloner la partie frontend : https://github.com/San5u/Mon-vieux-grimoire-Frontend.git
-3. Installer les dépendances : npm install
 
-4. Créez un fichier .env puis rajouter les données suivantes :
+2. Installer les dépendances : npm install
+
+3. Créez un fichier .env puis rajouter les données suivantes :
 
 Le lien pour se connecter à la base de données MongoDB:
 
@@ -21,4 +22,5 @@ Le token: JWT_TOKEN=
 
 ## Utilisation
 Lancer le code de la partie frontend et backend séparément avec : npm start
+
 La partie frontend sera à l'adresse http://localhost:3000 et la partie backend sera à l'adresse http://localhost:4000
