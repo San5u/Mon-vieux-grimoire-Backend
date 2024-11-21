@@ -16,7 +16,7 @@ Le lien pour se connecter à la base de données MongoDB:
 MONGO_USER=<Mongo user name>
 MONGO_PASSWORD=<Mongo password>
 MONGO_DB=<Mongo DB name>
-MONGO_OPTIONS=retryWrites=true&w=majority&appName=<Mongo DB app Name>
+
 ```
 Le token: JWT_TOKEN=
 
